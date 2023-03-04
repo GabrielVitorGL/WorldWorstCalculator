@@ -1,4 +1,4 @@
-with open('WorldWorstCalculator.py', 'w') as arquivo:
+with open('../WorldWorstCalculator.py', 'w') as arquivo:
     arquivo.write('firstNumber = int(input("Enter the first number: "))\n')
     arquivo.write('operator = input("Enter the operator (+, -, /, *): ")\n')
     arquivo.write('secondNumber = int(input("Enter the second number: "))\n')
