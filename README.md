@@ -3,6 +3,7 @@
 
 # How it works?
 The calculator uses a series of hard-coded examples in if statements to perform the calculation. For example, if the operator is "+", the calculator checks the value of firstNumber and secondNumber, and sets the result variable to the correct answer based on the inputs.
+
 In this example, the program only supports values up to 100 in order to keep it "runnable".
 
 # How did you do that?
